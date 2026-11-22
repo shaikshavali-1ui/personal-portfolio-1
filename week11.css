@@ -1,0 +1,55 @@
+
+
+/* General Styling */
+
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f2f4f8;
+    text-align: center;
+}
+
+header {
+    background-color: #14213d;
+    color: white;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+section {
+    padding: 30px;
+}
+
+#home {
+    background-color: #243b64;
+    color: white;
+    padding: 60px;
+}
+
+h2 {
+    color: #14213d;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 15px auto;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px gray;
+}
+
+footer {
+    background-color: #14213d;
+    color: white;
+    padding: 15px;
+}
